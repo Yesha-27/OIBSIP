@@ -116,10 +116,6 @@ public class Main {
                 trainName = "Mumbai Rajdhani";
                 break;
 
-            case "11111":
-                trainName = "Saurashtra Express";
-                break;
-
             case "1234":
                 trainName = "Vande Bharat Express";
                 break;
