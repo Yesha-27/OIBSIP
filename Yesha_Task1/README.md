@@ -1,16 +1,19 @@
-# Number Guessing Game
+# Online Reservation System
 
 ## Description
 
-A Java console application that generates a random number and asks the user to guess it.
+The Online Reservation System is a Java application that allows users to reserve and cancel railway tickets through a simple console interface.
 
 ## Features
 
-- Random number generation
-- User input
-- Guess validation
-- Attempts counter
-- Win message
+- User Login
+- Ticket Reservation
+- Automatic Train Name Fetch
+- PNR Generation
+- Ticket Cancellation
+- Reservation Details
 
-## Technologies
+## Technologies Used
+
 - Java
+- OOP Concepts
