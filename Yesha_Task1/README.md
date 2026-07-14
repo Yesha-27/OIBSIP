@@ -1,19 +1,28 @@
 # Online Reservation System
 
-## Description
-
-The Online Reservation System is a Java application that allows users to reserve and cancel railway tickets through a simple console interface.
+This project is developed in Java as a part of the Oasis Infobyte Java Development Internship.
 
 ## Features
 
 - User Login
 - Ticket Reservation
-- Automatic Train Name Fetch
+- Automatic Train Name
 - PNR Generation
+- View Ticket
 - Ticket Cancellation
-- Reservation Details
 
 ## Technologies Used
 
 - Java
-- OOP Concepts
+
+## How to Run
+
+1. Open the project in IntelliJ IDEA.
+2. Run Main.java.
+3. Login using:
+   - Username: admin
+   - Password: 123
+
+## Author
+
+Yesha
